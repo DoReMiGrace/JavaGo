@@ -1,4 +1,5 @@
-package thisthis_6;
+package oop.ajou.javago;
+
 
 import java.io.BufferedInputStream;
 import java.io.File;
